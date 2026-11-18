@@ -32,5 +32,5 @@ LoueTonGBA permet à tous les habitants d'Abidjan de louer une voiture en quelqu
 
 ## 👨‍💻 Auteur
 
-Créé par **Jeyann Bilé**
+Créé par **Jeyann Bilé ; Danho Cédric ; Azoukou Myra ; Eckrah Annaelle**
 Projet d'école - Développeur Back
