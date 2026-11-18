@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nom": "Mercedes GLE",
+    "prix_par_jour": 950000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 2,
+    "nom": "Mercedes Classe C",
+    "prix_par_jour": 70000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 3,
+    "nom": "Toyota Hilux",
+    "prix_par_jour": 60000,
+    "places": 4,
+    "disponible": true,
+    "ville": "Plateau"
+  },
+  {
+    "id": 4,
+    "nom": "Toyota Land Cruiser 300",
+    "prix_par_jour": 120000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 5,
+    "nom": "Range Rover SV",
+    "prix_par_jour": 150000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 6,
+    "nom": "Range Rover Velar",
+    "prix_par_jour": 110000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Plateau"
+  },
+  {
+    "id": 7,
+    "nom": "BMW X5 M",
+    "prix_par_jour": 130000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Marcory"
+  },
+  {
+    "id": 8,
+    "nom": "BMW Série 8 Gran",
+    "prix_par_jour": 140000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 9,
+    "nom": "Audi A5",
+    "prix_par_jour": 85000,
+    "places": 4,
+    "disponible": true,
+    "ville": "Plateau"
+  },
+  {
+    "id": 10,
+    "nom": "Audi A8",
+    "prix_par_jour": 120000,
+    "places": 4,
+    "disponible": true,
+    "ville": "Cocody"
+  },
+  {
+    "id": 11,
+    "nom": "Ford Puma",
+    "prix_par_jour": 30000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Yopougon"
+  },
+  {
+    "id": 12,
+    "nom": "Ford Kuga",
+    "prix_par_jour": 45000,
+    "places": 5,
+    "disponible": true,
+    "ville": "Abobo"
+  }
+]
